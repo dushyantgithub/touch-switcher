@@ -1,0 +1,7 @@
+.tools/
+build/
+*.zip
+windows/ControlMyMonitor.exe
+*.log
+*.old
+.DS_Store
